@@ -1,0 +1,11 @@
+body {
+    font-family: system-ui;
+    background: #000000;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#clock{
+    font-size: 200px;
+    padding: 150px 0px;
+}
